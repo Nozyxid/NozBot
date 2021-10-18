@@ -1,0 +1,24 @@
+{
+    "ownerNumber": "628886281729@s.whatsapp.net",
+    "ownerName": "Nozy",
+    "limitCount": 30,
+    "gamewaktu": 60,
+    "botName": "Xinz Bot",
+    "pathImg": "./media/Kanna.jpg",
+    "apikey": "YOUR_APIKEY",
+    "fake": "NOZ-BOTZ VERIFIED",
+    "sesidInsta": "default",
+    "sessionName": "aqulzz",
+    "txtDonasi": "DANA : 08886281729\nTrakteer : https://trakteer.id/nozyxid\nSaweeria : https://saweria.co/Nozyxid\nPulsa : 08886281729",
+    "gcount": {
+        "prem": 40,
+        "user": 20
+    },
+    "emote":{
+        "free": "◽",
+        "owner": "◾",
+        "limit": "🔸",
+        "glimit": "🔹",
+        "prem": "💰"
+    }
+}
